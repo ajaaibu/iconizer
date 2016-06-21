@@ -1,0 +1,14 @@
+{
+  "name": "iconizer",
+  "version": "1.0.0",
+  "description": "A tool to generate icons for website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Ali (ajaaibu)",
+  "license": "MIT",
+  "devDependencies": {
+    "gm": "^1.22.0"
+  }
+}
